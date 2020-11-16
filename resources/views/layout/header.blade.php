@@ -36,9 +36,6 @@
             <a class="dropdown-item" href="/movies/genre/3/">TV Show</a>
           </div>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{url()->previous()}}">Back<span class="sr-only">(current)</span></a>
-        </li>
       </ul>
     </div>
   </nav>
